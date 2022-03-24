@@ -1,23 +1,12 @@
 ### Hi there 👋, My name is Eric B. Davis
 
 ## My Background
-I am an accounting consultant
 
+I am an accomplished accounting contractor, and I enjoy using my skills to help various accounting departments advance their processes and procedures through VBA Macros. I graduated from Georgia Southern University in 2020 with a master’s in accounting. While attending school and working for Coca-Cola, I became drawn towards VBA scripts. This burning interest led me to want to know more about scripting languages. So, I enrolled in a Full-stack development bootcamp at Georgia Institute of Technology. My goal is to garnish a better understand of scripting languages and utilize this knowledge within my career. 
 
-For the better part of the last 10 years, I have been working as a tech consultant configuring enterprise applications to help businesses run better. Recently, I decided that I wanted to go back to my roots and dive into coding. I'm currently enrolled in a Full-stack development course with the Georgia Institute of Technology to learn as much as I can about 'all things web development'. My hope is that through this new journey I will gain the tools and experience needed to finally bring to life my ideas in the form of useful and beautiful applications.
+⭐ To learn more about me, checkout my porfolio page!
+📫 Reach me @ 
 
-I am constantly looking to learn more and find ways to contribute to the community. In particular, I'm interested in collaborations that focus on community service or the general betterment of our world. Feel free to reach out if you're looking for support on your next humanitarian project.
 <!--
 **edavis56/edavis56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
