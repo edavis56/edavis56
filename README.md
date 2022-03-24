@@ -6,7 +6,7 @@ I am an accomplished accounting contractor, and I enjoy using my skills to help 
 
 ⭐ To learn more about me, checkout my porfolio page!
 
-📫 Reach me @ 
+📫 Reach me @ ericdavisdevelopment@gmail.com
 
 <!--
 **edavis56/edavis56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
